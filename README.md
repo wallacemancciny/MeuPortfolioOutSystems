@@ -9,7 +9,7 @@ Esse projeto permite o usuário logar e cadastrar dados do profissional e os pro
 </h1>
 
 <h1 align="center">
-    <img alt="OSMDB - Catálogo de Filmes" width="500" src="https://github.com/wallacemancciny/MeuPortfolioOutSystems/blob/main/home.png" />
+    <img alt="OSMDB - Catálogo de Filmes" width="500" src="https://github.com/wallacemancciny/https://github.com/wallacemancciny/MeuPortfolioOutSystems/blob/main/Lista%20de%20Projetos.png" />
 </h1>
 
 <h1 align="center">
